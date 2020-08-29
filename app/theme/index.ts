@@ -1,25 +1,30 @@
-import colors, { Color } from './colors';
+import color, { Color } from './colors';
+import typography, { Typography } from './typography';
 
-interface Theme {
+export interface Theme {
   color: Color;
+  typography: Typography;
 }
 
 const light: Theme = {
   color: {
-    all: colors,
-    background: colors.lightGray7,
-    textPrimary: colors.darkGray6,
-    textSecondary: colors.darkGray2,
+    all: color,
+    background: color.lightGray7,
+    textPrimary: color.darkGray6,
+    textSecondary: color.darkGray2,
   },
+  typography,
 };
 
 const dark: Theme = {
   color: {
-    all: colors,
-    background: colors.darkGray2,
-    textPrimary: colors.lightGray6,
-    textSecondary: colors.lightGray4,
+    all: color,
+    background: color.darkGray6,
+    textPrimary: color.lightGray6,
+    textSecondary: color.lightGray4,
   },
+
+  typography,
 };
 
 export default { light, dark };
