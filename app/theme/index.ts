@@ -9,9 +9,11 @@ export interface Theme {
 const light: Theme = {
   color: {
     all: color,
-    background: color.lightGray7,
+    background: color.lightGray2,
     textPrimary: color.darkGray6,
     textSecondary: color.darkGray2,
+    border: color.darkGray,
+    link: color.blue,
   },
   typography,
 };
@@ -22,6 +24,8 @@ const dark: Theme = {
     background: color.darkGray6,
     textPrimary: color.lightGray6,
     textSecondary: color.lightGray4,
+    border: color.lightGray6,
+    link: color.blue,
   },
 
   typography,
