@@ -24,6 +24,7 @@ enum colors {
   lightGray7 = 'rgb(174,174,178)',
   lightGray8 = 'rgb(142,142,147)',
   darkGray = 'rgb(142,142,147)',
+  darkGray1 = 'rgb(102, 102, 102)',
   darkGray2 = 'rgb(99,99,102)',
   darkGray3 = 'rgb(72,72,74)',
   darkGray4 = 'rgb(58,58,60)',

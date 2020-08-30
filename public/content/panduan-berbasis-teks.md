@@ -1,0 +1,22 @@
+- [arisetyo/belajar-react](https://github.com/arisetyo/belajar-react)
+- [Belajarpython](https://belajarpython.com/) ([repositori](https://github.com/belajarpythoncom/belajarpython.com))
+- [Byte of Python](https://github.com/asofyan/byte_of_python)
+  - terjemahan
+- [Dicoding Indonesia](https://www.dicoding.com)
+  - Android Studio, Construct 2, Java, Unity, dll.
+  - sebagian materi berbayar
+  - memberikan sertifikat
+- [JavaScript Sabuk Putih](https://bosnaufal.github.io/javascript-sabuk-putih/) ([repositori](https://github.com/BosNaufal/javascript-sabuk-putih))
+- [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
+- [JS101](https://hendrasadewa.site/js101/)
+  - Serial artikel membahas Javascript (WIP)
+- [Pengenalan Node.js](http://idjs.github.io/belajar-nodejs/) ([repositori](http://idjs.github.io/belajar-nodejs/))
+- [Pro Git](https://git-scm.com/book/id/v2)
+  - terjemahan tidak lengkap
+- [git - panduan ringkas oleh Roger Dudler](https://rogerdudler.github.io/git-guide/index.id.html), diterjemahkan oleh [itangsanjana](https://github.com/itangsanjana)
+- [The Linux Documentation Project](http://tldp.org/pub/Linux/docs/HOWTO/translations/indonesian/)
+  - dokumentasi terkait Linux
+  - terjemahan tidak lengkap
+- [wisn/jargon-pemrograman-fungsional](https://github.com/wisn/jargon-pemrograman-fungsional)
+  - glosarium
+- [Workshop Python 101](http://sakti.github.io/python101/)

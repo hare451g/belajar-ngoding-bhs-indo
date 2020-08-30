@@ -1,0 +1,17 @@
+- [CodePolitan](https://www.codepolitan.com/)
+  - HTML/CSS, dll.
+  - sebagian besar materi berbayar
+- [IndonesiaX (Kategori _Computer Science_)](https://www.indonesiax.co.id/courses?category=computer-science)
+- [Kelas Terbuka](https://www.youtube.com/user/faqihzamukhlish) (YouTube)
+  - C++, Django, Java, Matlab, dll.
+- [Malescast](https://malescast.com/)
+  - Laravel, PHP, dll.
+  - sebagian materi berbayar
+  - terakhir kali diperbarui tahun 2015
+- [Petani Kode](https://www.youtube.com/petanikode) (YouTube)
+  - Java
+- [Sekolah Koding](https://sekolahkoding.com/)
+  - HTML/CSS, JavaScript, Laravel, PHP, Python, dll.
+  - sebagian materi berbayar
+- [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) (YouTube)
+  - HTML/CSS, PHP

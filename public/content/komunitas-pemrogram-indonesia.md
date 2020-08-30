@@ -1,0 +1,8 @@
+- [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group)
+  - daftar grup Indonesia yang terkait dengan pemrograman di Telegram
+- [codingfess di Twitter](https://twitter.com/codingfess)
+  - akun menfess seputar coding
+- [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
+  - daftar repository keren yang dibuat dan dikontribusikan oleh orang Indonesia
+- [Ruang Serikat Pekerja Teknologi di Quora](https://id.quora.com/q/serikatpekerjateknologi)
+  - berbagi cerita tentang menjalani karier di bidang teknologi

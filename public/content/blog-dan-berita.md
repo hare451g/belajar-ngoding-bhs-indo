@@ -1,0 +1,3 @@
+- [CodePolitan](https://www.codepolitan.com/)
+- [Malas Ngoding](https://www.malasngoding.com)
+- [Petani Kode](https://www.petanikode.com/)

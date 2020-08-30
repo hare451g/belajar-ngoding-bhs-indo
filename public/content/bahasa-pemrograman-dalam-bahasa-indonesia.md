@@ -1,0 +1,9 @@
+- [BeetleBlocks](http://beetleblocks.com/) ([repositori](https://github.com/ericrosenbaum/BeetleBlocks))
+  - bahasa pemrograman visual berbasis balok
+  - akses terjemahan bahasa Indonesia lewat menu > _languages_ > Bahasa Indonesia
+- [Scratch](https://scratch.mit.edu/) ([repositori](https://github.com/LLK/))
+  - bahasa pemrograman visual berbasis balok
+  - akses terjemahan bahasa Indonesia lewat tombol bola dunia > Bahasa Indonesia
+- [Snap!](https://snap.berkeley.edu/) ([repositori](https://github.com/jmoenig/Snap))
+  - bahasa pemrograman visual berbasis balok
+  - akses terjemahan bahasa Indonesia lewat menu > _language ..._ > Bahasa Indonesia

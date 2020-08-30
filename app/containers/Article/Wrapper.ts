@@ -5,6 +5,7 @@ const Wrapper = styled.article(
     font-family: ${typography.fontFamily['sans-serif']};
     font-size: 1.25rem;
     line-height: 1.5rem;
+    font-weight: 400;
     color: ${color.textPrimary};
 
     h1 {
@@ -41,6 +42,10 @@ const Wrapper = styled.article(
       margin-bottom: 1.85rem;
     }
 
+    li {
+      margin-bottom: 0.5rem;
+    }
+
     hr {
       color: ${color.textPrimary};
       border-top: none;
@@ -51,6 +56,10 @@ const Wrapper = styled.article(
     a {
       color: ${color.link};
       text-decoration: none;
+      :hover {
+        color: ${color.link};
+        transition: font-weight 0.2s;
+      }
     }
   `
 );
